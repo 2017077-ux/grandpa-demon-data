@@ -12,7 +12,7 @@ jobs:
 
       - name: Crear archivo
         run: |
-          echo "[]" > levels.json
+          echo "No actualizar todavía"
 
       - name: Guardar cambios
         run: |
